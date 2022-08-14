@@ -1,4 +1,4 @@
-Much detailed instructions can be found here - https://sleepyxspirit.duckdns.org/traefik-reverse-proxy-install/
+Much detailed instructions can be found here - https://sleepysoul.cc/traefik-reverse-proxy/
 
 **BELOW LABELS ARE TO BE USED FOR OTHER CONTAINERS WHICH NEEDED TO BE MONITORED AND PROXIED BY TRAEFIK**
 
